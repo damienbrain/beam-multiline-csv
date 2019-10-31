@@ -1,3 +1,7 @@
-There are some words on this line,"this has no newline embedded",here
-And some words on this line,"this has 
+Line 1,"this has no newline embedded",here
+Line 2,"this has 
 a newline embedded",there
+Line 3,"this has an embedded "" double quote",everywhere
+Line 4,"this has an embedded, comma",nowhere
+Line 5,there is a 	tab,somewhere
+Line 6,there is a  control character,anywhere
