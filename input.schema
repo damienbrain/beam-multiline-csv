@@ -1,0 +1,10 @@
+{
+	"type" : "record",
+	"namespace" : "myexample",
+	"name" : "inputrecord",
+	"fields" : [
+		{ "name" : "First", "type" : "string" },
+		{ "name" : "Second", "type" : "string" },
+		{ "name" : "Third", "type" : "string" }
+	]
+}
