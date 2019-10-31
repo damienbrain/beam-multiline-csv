@@ -1,14 +1,3 @@
 {
-	"fields" : {
-		  "First": {
-				"dataType" : "string"
-			},
-		  "Second" : {
-			  "dataType" : "string"
-		  },
-		  "Third": {
-				"dataType" : "string"
-			}
-	},
 	"inputSchemaFile" : "input.schema"
 }
